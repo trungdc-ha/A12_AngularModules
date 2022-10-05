@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "gender": 1,
+      "point": 100,
+      "type": {
+        "id" : 1,
+        "name" : "A"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "gender": 2,
+      "point": 50,
+      "type": {
+        "id" : 2,
+        "name" : "B"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Van C",
+      "gender": 0,
+      "point": 80
+    },
+    {
+      "name": "Hoa",
+      "gender": 1,
+      "point": 90,
+      "id": 5
+    }
+  ],
+  "type" : [
+    {
+      "id" : 1,
+      "name" : "A"
+    },
+    {
+      "id" : 2,
+      "name" : "B"
+    }
+  ]
+}
